@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is based on https://www.dummyjson.com
+This project is based on [https://www.dummyjson.com](https://dummyjson.com)
 
 It is a sample project for some use cases.
 
